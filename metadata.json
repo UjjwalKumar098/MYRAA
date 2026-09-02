@@ -1,0 +1,11 @@
+{
+  "name": "Remix Myraa",
+  "description": "Real-time voice AI assistant with multimodal intelligence, calendar event tracker & autonomous voice note reminders, multi-step autonomous pipelines & scheduled workflows, meeting transcript & document action extractor, AI code assistant & sandbox runner, language academy tutor, quick task sprints, flirt & romance studio with chemistry gauge, live stocks & trading terminal, world weather radar, zero-cost digital business builder, YouTube/Spotify media control, crystal mic & voice clarity enhancer, and adaptive emotion tracking history.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
